@@ -18,9 +18,8 @@ Since then, I’ve been continuously building my skills and exploring different 
   <a href="https://github.com/Spriffer">
     <img src="https://img.shields.io/badge/GitHub-BERNARDOCECCONI-181717?style=for-the-badge&logo=github" /> 
   </a>
-  <a href="https://www.instagram.com/bernardocecc/">
-    <img src="https://img.shields.io/badge/Instagram-@bernardocecc
--E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+   <a href="https://instagram.com/oreidosites">
+    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
