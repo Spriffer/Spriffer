@@ -1,16 +1,102 @@
-## Hi there 👋
+# Hi 👋, I'm Bernardo Cecconi
 
+🚀 **Student | Software Engineer**  
+🇧🇷 Brazil
+
+
+I’m interested in **software architecture, performance, and best development practices**, always aiming to write **clean, efficient, and scalable code.**
+
+My interest in programming started around the age of 12, when I was introduced to **C++** in a **gifted education program** during middle school. 
+Since then, I’ve been continuously building my skills and exploring different areas of software development.
+
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/Spriffer">
+    <img src="https://img.shields.io/badge/GitHub-BERNARDOCECCONI-181717?style=for-the-badge&logo=github" /> 
+  </a>
+  <a href="https://www.instagram.com/bernardocecc/">
+    <img src="https://img.shields.io/badge/Instagram-@bernardocecc
+-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 What I do
+
+
+- 💻 Software development using multiple languages
+
+- 🌐 Building web applications
+- 🗄️ Working with databases
+- ⚙️ Problem solving and logical thinking
+- 🚀 Always learning and improving
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
+
+
+
+
+
+
+
+
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML-5+-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
+
+
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+
+## Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+
+---
 <!--
-**Spriffer/Spriffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
 -->
+---
+
+## 🚀 Philosophy
+
+
+> _"Good code solves problems. Great code makes them simpler."_
+
+---
+
