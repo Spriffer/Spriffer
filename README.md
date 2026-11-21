@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=spriffer&theme=halloween&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183549691%3Fu%3D4af0cd56295c32b8492fc9b4ee1f66921ff12141%26v%3D4" alt="spriffer hero visual" />
-</p>
-
-</div>
-
-<div align="center">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1400&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=%3E+Welcome%2C+developer.;%3E+Software+Engineer;Game+Director+%26+Technical+Lead;Building+software+%26+games.;" alt="Typing SVG" />
