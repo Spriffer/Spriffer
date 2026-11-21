@@ -123,6 +123,5 @@ Arquitetura · Performance · Simplicidade
 
 <br><br>
 
-<img src="https://www.gitskins.com/api/section/social?username=spriffer&theme=halloween&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183549691%3Fu%3D4af0cd56295c32b8492fc9b4ee1f66921ff12141%26v%3D4" alt="spriffer social visual" />
 
 </div>
